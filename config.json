@@ -1,0 +1,25 @@
+{
+  "params":
+  {
+    "local_server" :"True",
+    "local_uri" : "mysql://root:@localhost/pylearn",
+    "prod_uri" : "mysql://root:@localhost/pylearn",
+    "fb_url": "https://www.facebook.com/charles.r.severance",
+    "tw_url": "https://twitter.com/drchuck?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "gh_url": "https://github.com/",
+    "blog": "Py-Learn",
+    "tag_line": "A place where you learn",
+    "gmail-user":"pylearnpro@gmail.com",
+    "gmail-password": "Java@2020",
+    "about_text": "This is a text :/",
+    "no_of_posts": 20,
+    "login_image": "login.jpeg",
+    "admin_user": "admin",
+    "admin_pass": "admin123",
+    "upload_location": "C:\\Users\\NEEL\\PycharmProjects\\pylearn\\static\\files"
+
+
+
+
+  }
+}
